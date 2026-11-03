@@ -1,0 +1,22 @@
+{
+  "name": "Trip Fuel Calculator",
+  "short_name": "Fuel Calc",
+  "description": "Session-only offline fuel cost and efficiency benchmarking tracker.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4f6f9",
+  "theme_color": "#0070f3",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://flaticon.com",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://flaticon.com",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
